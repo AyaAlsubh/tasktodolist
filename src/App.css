@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100;200;300;400;500;600;700&display=swap');
+
+body{
+    background-image: url('pexels-karolina-grabowska-4464438.jpg');
+    
+    
+    height: 400px;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+img{max-width: 100%;
+  height: auto;
+  display: block;}
+
+.in{
+    margin-left: 550px;
+    align-content: center;
+    margin-top: 20px;
+    
+}
+.bt{
+    align-content: center;
+    margin-top: 30px;
+    margin-left: 600px;
+    
+    margin-bottom: 40px;
+    background-color: rgb(144, 65, 36);
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+.p{
+    
+    align-content: center;
+    margin-left: 550px;
+   margin-top: 0px;
+    
+}
+.btn{
+color:rgb(144, 65, 36) ;
+background-color: white;}
+
+
+.H{
+    margin-left: 400px;
+
+}
